@@ -1,7 +1,3 @@
-# python-atm-machine
-
-A simple Python console ATM program made to practice basic programming skills.
-
 # Python ATM Machine
 
 This is a simple ATM machine program made using Python.
